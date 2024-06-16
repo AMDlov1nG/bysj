@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>五大枪械皮肤数量统计</title>
+    <script src="https://www.chartjs.org/dist/2.9.4/Chart.min.js"></script>
+</head>
+<body>
+    <canvas id="myChart"></canvas>
+    <script>
+        var ctx = document.getElementById('myChart').getContext('2d');
+        var myChart;
+
+        // 使用AJAX获取数据
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'chart_data.php', true);
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var data = JSON.parse(xhr.responseText);
+
+                myChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: ['狂徒', '幻影', '戍卫', '獠犬', '正义', '鬼魅'],
+                        datasets: [{
+                            label: '# of Words',
+                            data: [
+                                data['狂徒'],
+                                data['幻影'],
+                                data['戍卫'],
+                                data['獠犬'],
+                                data['正义'],
+                                data['鬼魅']
+                            ],
+                            backgroundColor: ['rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)', 'rgba(75, 192, 192, 0.2)', 'rgba(255, 206, 86, 0.2)', 'rgba(255, 206, 86, 0.2)'],
+                            borderColor: ['rgb(255, 99, 132)', 'rgb(54, 162, 235)', 'rgb(255, 206, 86)', 'rgb(75, 192, 192)', 'rgb(255, 206, 86)', 'rgb(255, 206, 86)'],
+                            borderWidth: 1
+                        }]
+                    }
+                });
+            }
+        };
+        xhr.send();
+    </script>
+</body>
+</html>

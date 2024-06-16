@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>主战武器皮肤数量统计</title>
+</head>
+<body>
+
+  <h3>主战武器皮肤数量统计</h3>
+
+  <canvas id="myChart"></canvas>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
+
+  <script>
+  // 图表配置
+  new Chart(document.getElementById('myChart'), {
+    type: 'bar',
+    data: {
+      labels: ['狂徒', '幻影', '戍卫', '獠犬', '正义', '鬼魅'],
+      datasets: [{
+        label: '# of Votes',
+        data: [<?php echo $data['狂徒']; ?>, 
+               <?php echo $data['幻影']; ?>,
+               <?php echo $data['戍卫']; ?>,
+               <?php echo $data['獠犬']; ?>, 
+               <?php echo $data['正义']; ?>,
+               <?php echo $data['鬼魅']; ?>],
+        backgroundColor: ['red', 'green', 'blue', 'yellow', 'purple', 'orange']
+      }]
+    },
+    options: {
+      title: {
+        display: true,
+        text: '主战武器皮肤数量统计'  
+      }
+    }
+  });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>瓦罗兰特数据页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 20px;
+            padding: 20px;
+            text-align: center; /* 居中文本 */
+        }
+        button {
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            display: none; /* 默认隐藏 */
+        }
+        #initialMessage {
+            display: block; /* 显示初始消息 */
+            font-size: 24px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>瓦罗兰特数据页</h1>
+    <div>
+        <button onclick="showPage('http://139.199.231.191:4070/true5rifle.php')">主战武器皮肤统计</button>
+        <button onclick="showPage('http://139.199.231.191:4070/trueallweapon.php')">全部武器皮肤数量统计</button>
+        <button onclick="showPage('http://139.199.231.191:4070/tier.php')">武器皮肤等级统计</button>
+        <button onclick="showPage('http://139.199.231.191:4070/tuijian.php')">武器皮肤推荐系统</button>
+    </div>
+    
+    <iframe id="displayFrame"></iframe>
+    <p id="initialMessage">请点击模块按钮进入模块</p> <!-- 初始消息 -->
+
+    <script>
+        function showPage(url) {
+            document.getElementById('displayFrame').src = url;
+            document.getElementById('displayFrame').style.display = 'block'; // 显示iframe
+            document.getElementById('initialMessage').style.display = 'none'; // 隐藏初始消息
+        }
+    </script>
+</body>
+</html>
