@@ -1,6 +1,10 @@
 # bysj  
 ##_毕业设计项目 瓦罗兰特商店查询APP及PHP网页_  
   
+**思路：https://www.bilibili.com/video/BV1eP411f7tB**  
+**APP界面借鉴IOS商店ValTracker**  
+**拳头认证：https://github.com/floxay/python-riot-auth**  
+  
 ##20204/6/17  
 APK文件在master分支中可下载  
 基础查询功能APP源码尚在，添加武器数据、皮肤数据趣味分析源码由于重装系统丢失  
