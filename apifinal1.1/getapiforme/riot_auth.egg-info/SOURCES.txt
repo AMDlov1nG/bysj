@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+riot_auth/__init__.py
+riot_auth/auth.py
+riot_auth/auth_exceptions.py
+riot_auth.egg-info/PKG-INFO
+riot_auth.egg-info/SOURCES.txt
+riot_auth.egg-info/dependency_links.txt
+riot_auth.egg-info/requires.txt
+riot_auth.egg-info/top_level.txt

@@ -1,0 +1,82 @@
+[
+    {
+        "uuid1": {
+            "Name": "涂鸦伙伴 飞将",
+            "cdisplayIcon1": "https://media.valorant-api.com/weaponskinchromas/a0ed65cb-4c78-a8f8-8c50-098a7ac44bf6/displayicon.png",
+            "ctreamedVideo1": null,
+            "cdisplayIcon2": "https://media.valorant-api.com/weaponskinchromas/12d3f3b6-41ee-84b6-9d38-13864db801e9/displayicon.png",
+            "ctreamedVideo2": "https://valorant.dyn.riotcdn.net/x/videos/release-08.08/4989caaf-4166-a593-0801-daad628197a3_default_universal.mp4",
+            "cdisplayIcon3": "https://media.valorant-api.com/weaponskinchromas/dd0f9f13-4e33-b428-2c9e-86b051c5c053/displayicon.png",
+            "ctreamedVideo3": "https://valorant.dyn.riotcdn.net/x/videos/release-08.08/6e7ab70c-4c1e-c548-d434-9097d20179b2_default_universal.mp4",
+            "cdisplayIcon4": null,
+            "ctreamedVideo4": null,
+            "cdisplayIcon5": null,
+            "ctreamedVideo5": null,
+            "levelsVideo1": "https://valorant.dyn.riotcdn.net/x/videos/release-08.08/089157c4-4977-2c88-e6db-6683cd57d9fe_default_universal.mp4",
+            "levelsVideo2": "https://valorant.dyn.riotcdn.net/x/videos/release-08.08/8db90a09-4c3b-6cfe-fc3a-b7b45c8c2b69_default_universal.mp4",
+            "levelsVideo3": null,
+            "levelsVideo4": null,
+            "levelsVideo5": null
+        }
+    },
+    {
+        "uuid2": {
+            "Name": "MK.VII 自由强袭 冥驹",
+            "cdisplayIcon1": "https://media.valorant-api.com/weaponskinchromas/c59ac8f3-4c4f-8527-4c23-4cb836377f8a/displayicon.png",
+            "ctreamedVideo1": null,
+            "cdisplayIcon2": "https://media.valorant-api.com/weaponskinchromas/c794a868-4b30-e87e-e2c0-beb4c47892dc/displayicon.png",
+            "ctreamedVideo2": null,
+            "cdisplayIcon3": "https://media.valorant-api.com/weaponskinchromas/4b5b0b10-46d8-dc68-df7c-cfbe277b1f95/displayicon.png",
+            "ctreamedVideo3": null,
+            "cdisplayIcon4": "https://media.valorant-api.com/weaponskinchromas/f0058fd7-4f4f-af54-a935-e381ea0ef863/displayicon.png",
+            "ctreamedVideo4": null,
+            "cdisplayIcon5": null,
+            "ctreamedVideo5": null,
+            "levelsVideo1": null,
+            "levelsVideo2": null,
+            "levelsVideo3": null,
+            "levelsVideo4": null,
+            "levelsVideo5": null
+        }
+    },
+    {
+        "uuid3": {
+            "Name": "金角扇",
+            "cdisplayIcon1": "https://media.valorant-api.com/weaponskinchromas/beaac174-44a6-0ee8-4607-939405782cae/displayicon.png",
+            "ctreamedVideo1": null,
+            "cdisplayIcon2": null,
+            "ctreamedVideo2": null,
+            "cdisplayIcon3": null,
+            "ctreamedVideo3": null,
+            "cdisplayIcon4": null,
+            "ctreamedVideo4": null,
+            "cdisplayIcon5": null,
+            "ctreamedVideo5": null,
+            "levelsVideo1": "https://valorant.dyn.riotcdn.net/x/videos/release-08.08/5cee5980-4015-b99a-db3b-b68b7943265f_default_universal.mp4",
+            "levelsVideo2": "https://valorant.dyn.riotcdn.net/x/videos/release-08.08/0fce6b0c-4162-6b5b-d4a7-bc8adb193f91_default_universal.mp4",
+            "levelsVideo3": null,
+            "levelsVideo4": null,
+            "levelsVideo5": null
+        }
+    },
+    {
+        "uuid4": {
+            "Name": "白日幻梦 冥驹",
+            "cdisplayIcon1": "https://media.valorant-api.com/weaponskinchromas/98a855cb-40bf-0ee3-cec9-1ba52e0ce38e/displayicon.png",
+            "ctreamedVideo1": null,
+            "cdisplayIcon2": null,
+            "ctreamedVideo2": null,
+            "cdisplayIcon3": null,
+            "ctreamedVideo3": null,
+            "cdisplayIcon4": null,
+            "ctreamedVideo4": null,
+            "cdisplayIcon5": null,
+            "ctreamedVideo5": null,
+            "levelsVideo1": null,
+            "levelsVideo2": null,
+            "levelsVideo3": null,
+            "levelsVideo4": null,
+            "levelsVideo5": null
+        }
+    }
+]

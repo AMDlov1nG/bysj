@@ -1,0 +1,82 @@
+[
+    {
+        "uuid1": {
+            "Name": "起源 冥驹",
+            "cdisplayIcon1": "https://media.valorant-api.com/weaponskinchromas/e9a1f1d7-4651-c94c-4e9f-94a4bb93232b/displayicon.png",
+            "ctreamedVideo1": "https://valorant.dyn.riotcdn.net/x/videos/release-08.04/27894ca0-4bae-9bb9-a0e1-1d9befd86eb0_default_universal.mp4",
+            "cdisplayIcon2": "https://media.valorant-api.com/weaponskinchromas/3d72bc4e-4af0-369b-9f67-3181e7940b9a/displayicon.png",
+            "ctreamedVideo2": "https://valorant.dyn.riotcdn.net/x/videos/release-08.04/41c0b7ef-46ce-24ae-451f-a58a1a88da62_default_universal.mp4",
+            "cdisplayIcon3": "https://media.valorant-api.com/weaponskinchromas/db9ccc65-45c1-cc8d-6b2a-97a3c9ec6652/displayicon.png",
+            "ctreamedVideo3": "https://valorant.dyn.riotcdn.net/x/videos/release-08.04/f06fc1cf-4de7-2847-ef8c-ce9404dc8e59_default_universal.mp4",
+            "cdisplayIcon4": "https://media.valorant-api.com/weaponskinchromas/d41d5078-4b51-50b5-0d53-6cb96d548d74/displayicon.png",
+            "ctreamedVideo4": "https://valorant.dyn.riotcdn.net/x/videos/release-08.04/702805f2-40cf-26db-6f7d-e59f9e57054d_default_universal.mp4",
+            "cdisplayIcon5": null,
+            "ctreamedVideo5": null,
+            "levelsVideo1": "https://valorant.dyn.riotcdn.net/x/videos/release-08.04/94e2ba49-48d1-a939-1baa-9b922ab1d131_default_universal.mp4",
+            "levelsVideo2": "https://valorant.dyn.riotcdn.net/x/videos/release-08.04/507579ab-4d46-8960-63fc-4d82e67c3d33_default_universal.mp4",
+            "levelsVideo3": "https://valorant.dyn.riotcdn.net/x/videos/release-08.04/5d977546-4c14-5d0d-9326-e882a8ebf6d6_default_universal.mp4",
+            "levelsVideo4": "https://valorant.dyn.riotcdn.net/x/videos/release-08.04/27894ca0-4bae-9bb9-a0e1-1d9befd86eb0_default_universal.mp4",
+            "levelsVideo5": null
+        }
+    },
+    {
+        "uuid2": {
+            "Name": "极简主义 幻影",
+            "cdisplayIcon1": "https://media.valorant-api.com/weaponskinchromas/e43bb62e-4647-1548-47e7-9eb3da1a1d84/displayicon.png",
+            "ctreamedVideo1": null,
+            "cdisplayIcon2": null,
+            "ctreamedVideo2": null,
+            "cdisplayIcon3": null,
+            "ctreamedVideo3": null,
+            "cdisplayIcon4": null,
+            "ctreamedVideo4": null,
+            "cdisplayIcon5": null,
+            "ctreamedVideo5": null,
+            "levelsVideo1": null,
+            "levelsVideo2": null,
+            "levelsVideo3": null,
+            "levelsVideo4": null,
+            "levelsVideo5": null
+        }
+    },
+    {
+        "uuid3": {
+            "Name": "废土 正义",
+            "cdisplayIcon1": "https://media.valorant-api.com/weaponskinchromas/e75d09b4-4c8b-d9bf-f190-f9a844f3c474/displayicon.png",
+            "ctreamedVideo1": null,
+            "cdisplayIcon2": null,
+            "ctreamedVideo2": null,
+            "cdisplayIcon3": null,
+            "ctreamedVideo3": null,
+            "cdisplayIcon4": null,
+            "ctreamedVideo4": null,
+            "cdisplayIcon5": null,
+            "ctreamedVideo5": null,
+            "levelsVideo1": null,
+            "levelsVideo2": null,
+            "levelsVideo3": null,
+            "levelsVideo4": null,
+            "levelsVideo5": null
+        }
+    },
+    {
+        "uuid4": {
+            "Name": "天玄刀",
+            "cdisplayIcon1": "https://media.valorant-api.com/weaponskinchromas/3391be35-4eab-936c-f26d-ec810f4454c8/displayicon.png",
+            "ctreamedVideo1": null,
+            "cdisplayIcon2": null,
+            "ctreamedVideo2": null,
+            "cdisplayIcon3": null,
+            "ctreamedVideo3": null,
+            "cdisplayIcon4": null,
+            "ctreamedVideo4": null,
+            "cdisplayIcon5": null,
+            "ctreamedVideo5": null,
+            "levelsVideo1": "https://valorant.dyn.riotcdn.net/x/videos/release-08.04/4a6a5fbb-6f44-4758-bb9a-51e0b0437ad0_default_universal.mp4",
+            "levelsVideo2": "https://valorant.dyn.riotcdn.net/x/videos/release-08.04/bcf762a1-3d1b-4367-9d11-c5f7eed814f6_default_universal.mp4",
+            "levelsVideo3": null,
+            "levelsVideo4": null,
+            "levelsVideo5": null
+        }
+    }
+]
