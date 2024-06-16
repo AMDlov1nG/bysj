@@ -1,5 +1,5 @@
 # bysj  
-##_毕业设计项目 瓦罗兰特商店查询APP及PHP网页_  
+##**_毕业设计项目 瓦罗兰特商店查询APP及PHP网页_**  
   
 **思路：https://www.bilibili.com/video/BV1eP411f7tB**  
 **APP界面借鉴IOS商店ValTracker**  
